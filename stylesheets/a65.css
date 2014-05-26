@@ -1,0 +1,46 @@
+
+
+
+/* Table of Content
+==================================================
+	#A65 specific
+
+
+
+/* #A65 specific
+================================================== */
+body {
+	background-color: #073857;
+}
+
+#maintag {
+	text-align: center;
+	position: fixed;
+  	top: 50%;
+  	left: 50%;
+  	margin-top: -50px;
+  	margin-left: -120px;
+	color: #5589ab;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	text-decoration: none;
+}
+
+#line1 {
+	color: #5589ab;
+	font-size: 32px;
+}
+
+#line2 {
+	margin-top: -10px;
+	color: #357dab;
+	font-size: 18px;
+}
+
+a {
+	color: #357dab;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFF;
+}
