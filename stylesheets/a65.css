@@ -18,10 +18,10 @@ body {
 	position: fixed;
   	top: 50%;
   	left: 50%;
-  	margin-top: -50px;
-  	margin-left: -120px;
+  	transform: translate(-50%, -50%);
+  	margin: 0px auto;
 	color: #5589ab;
-	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-family: "HelveticaNeue-UltraLight", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 	text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ body {
 	color: #357dab;
 	font-family: Garamond, Georgia, serif;
 	font-size: 18px;
-	font-weight: bold;
+/*	font-weight: bold;*/
 }
 
 a {
